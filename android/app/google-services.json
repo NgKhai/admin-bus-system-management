@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "391610566299",
+    "firebase_url": "https://bus-system-management-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bus-system-management",
+    "storage_bucket": "bus-system-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391610566299:android:5ed37d496771e79dfc283e",
+        "android_client_info": {
+          "package_name": "com.example.admin_bus_system_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391610566299-89i24dl41b5f7vi2q8s8qt9i249m56tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2r59wMx8rz1Vkz2YIEwlF3Jsg3TTGXUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391610566299-89i24dl41b5f7vi2q8s8qt9i249m56tb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391610566299-5kcr5lf88vciger1arv7m229ju2vl5m8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.busSystemManagement"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391610566299:android:62340fff58273448fc283e",
+        "android_client_info": {
+          "package_name": "com.example.bus_system_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391610566299-v2iukoaa3kav3mm8nqb0fouhfsufjk2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bus_system_management",
+            "certificate_hash": "021f6ced7d1ed5cb8b107692807c3b1720a5206b"
+          }
+        },
+        {
+          "client_id": "391610566299-89i24dl41b5f7vi2q8s8qt9i249m56tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2r59wMx8rz1Vkz2YIEwlF3Jsg3TTGXUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391610566299-89i24dl41b5f7vi2q8s8qt9i249m56tb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391610566299-5kcr5lf88vciger1arv7m229ju2vl5m8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.busSystemManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
